@@ -191,18 +191,24 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `show vlan brief` (Switch Surabaya)
+<img width="747" height="222" alt="image" src="https://github.com/user-attachments/assets/7d9d0faa-82e6-41ae-b435-0f7431b4ce72" />
 
 
 #### Screenshot `show interfaces trunk` (Switch Surabaya)
+<img width="712" height="267" alt="image" src="https://github.com/user-attachments/assets/b95aa3a6-451c-4b43-8533-09aed80a64e7" />
 
 
 #### Screenshot `/ip address print` (MikroTik Surabaya)
+<img width="608" height="193" alt="image" src="https://github.com/user-attachments/assets/c25093af-e0ba-45bd-ac2c-14260b9b2f5e" />
 
 
 #### Screenshot `/ip dhcp-server print` & `/ip pool print`
+<img width="820" height="86" alt="image" src="https://github.com/user-attachments/assets/54005f5c-6cd9-4183-a126-838cac1b8eaf" />
+<img width="823" height="70" alt="image" src="https://github.com/user-attachments/assets/5c833366-e5bd-4917-ae59-6e2ae2a02321" />
 
 
 #### Screenshot `/ip route print` (MikroTik Surabaya)
+<img width="676" height="182" alt="image" src="https://github.com/user-attachments/assets/994c8d10-9c6b-449d-890d-729464d7fc6e" />
 
 
 #### Screenshot Client VLAN 30 Mendapat IP DHCP (`show ip`)
