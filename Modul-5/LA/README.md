@@ -41,12 +41,15 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot Topologi Jakarta
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/1ffb03eb-48e2-4904-9fae-12e64a5f62c0" />
 
 
 #### Screenshot `show vlan brief`
+<img width="1108" height="629" alt="image" src="https://github.com/user-attachments/assets/5f22ec96-9223-480a-9198-043effd5343b" />
 
 
 #### Screenshot `show interfaces trunk`
+<img width="1128" height="672" alt="image" src="https://github.com/user-attachments/assets/ca52676b-2a34-4c2e-949a-e154ccd4b758" />
 
 
 ---
@@ -57,15 +60,15 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `show ip interface brief`
+<img width="1134" height="739" alt="image" src="https://github.com/user-attachments/assets/de4c78f2-0d21-4762-892b-3256214fcaa4" />
 
 
 #### Screenshot `show vrrp brief`
-
-
-#### Screenshot Konfigurasi Subinterface & DHCP Relay
+<img width="1125" height="649" alt="image" src="https://github.com/user-attachments/assets/5722ee8a-a77f-45c2-a8b4-4cbcafcafeb9" />
 
 
 #### Screenshot Ping dari Cisco Router ke FortiGate Jakarta (`10.10.100.1`)
+<img width="1156" height="662" alt="image" src="https://github.com/user-attachments/assets/56f628c2-8b9e-4894-a6dc-147ee180ff36" />
 
 
 ---
@@ -76,18 +79,23 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `/ip address print`
+<img width="1096" height="642" alt="image" src="https://github.com/user-attachments/assets/ba58e045-7728-40a5-9485-18c6e33e2d58" />
 
 
 #### Screenshot `/interface vrrp print`
+<img width="1134" height="654" alt="image" src="https://github.com/user-attachments/assets/e6d9864e-331e-466b-a72b-905fb2fab854" />
 
 
 #### Screenshot `/ip dhcp-relay print`
+<img width="1152" height="677" alt="image" src="https://github.com/user-attachments/assets/5e6f6876-5e5a-49ac-98a0-1efbfa80b03c" />
 
 
 #### Screenshot `/ip route print`
+<img width="1137" height="668" alt="image" src="https://github.com/user-attachments/assets/714e7fb8-2568-42ae-8556-4edaf67bb654" />
 
 
 #### Screenshot Ping dari MikroTik ke FortiGate Jakarta (`10.10.101.1`)
+<img width="1112" height="662" alt="image" src="https://github.com/user-attachments/assets/94c78ce3-7590-4e6e-84cc-c04c1eb73b90" />
 
 
 ---
@@ -98,15 +106,19 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `ip a`
+<img width="1275" height="554" alt="image" src="https://github.com/user-attachments/assets/38dc9ef8-86ca-40b1-8856-d68eeff2820c" />
 
 
 #### Screenshot `ip route`
+<img width="1275" height="554" alt="image" src="https://github.com/user-attachments/assets/5dd28c79-6d17-49a0-83a5-6f25a6f6c07b" />
 
 
 #### Screenshot Isi File `/etc/dhcp/dhcpd.conf`
+<img width="1285" height="1249" alt="image" src="https://github.com/user-attachments/assets/dd5af369-9ab5-4f3f-8df1-b3858a55adb0" />
 
 
 #### Screenshot Ping dari Ubuntu ke Internet (`8.8.8.8`)
+<img width="1288" height="898" alt="image" src="https://github.com/user-attachments/assets/a5c0647f-98e5-40d9-82f3-c4f2fb92e48d" />
 
 
 ---
@@ -117,24 +129,32 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `get system interface physical`
+<img width="1275" height="1014" alt="image" src="https://github.com/user-attachments/assets/93ee0c04-03b0-4304-b61b-10a832eb6396" />
 
 
 #### Screenshot `get router info routing-table all`
+<img width="1274" height="532" alt="image" src="https://github.com/user-attachments/assets/c7f64cc5-9bfe-4d29-bcbc-0976382ae73f" />
 
 
 #### Screenshot Firewall Policy (NAT Enabled)
+<img width="1268" height="838" alt="image" src="https://github.com/user-attachments/assets/e73dfab8-61dc-493d-9b34-bcad9c95cc9b" />
+<img width="1229" height="791" alt="image" src="https://github.com/user-attachments/assets/67c05c41-735c-4276-91e9-c450ad8ad531" />
 
 
 #### Screenshot Ping dari FortiGate Jakarta ke Internet (`8.8.8.8`)
+<img width="772" height="435" alt="image" src="https://github.com/user-attachments/assets/769ae667-1060-4bcd-ab5c-71dc2218dea3" />
 
 
 #### Screenshot Ping ke IP Tunnel Surabaya (`172.16.0.2`)
+<img width="772" height="435" alt="image" src="https://github.com/user-attachments/assets/0fb76c75-8ced-4d54-bdbc-4bd1c56c816f" />
 
 
 #### Screenshot `get router info ospf neighbor`
+<img width="1284" height="291" alt="image" src="https://github.com/user-attachments/assets/4e4d8e52-39fd-4a9a-be8a-80c97cb6ccbc" />
 
 
 #### Screenshot `get router info routing-table ospf`
+<img width="1284" height="291" alt="image" src="https://github.com/user-attachments/assets/51e640ed-2c9a-4e38-9ee2-159728158f89" />
 
 
 ---
@@ -145,15 +165,19 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `/ip address print`
+<img width="1272" height="859" alt="image" src="https://github.com/user-attachments/assets/4cd5ffa8-23a0-4259-b9b6-136edbaab1c4" />
 
 
 #### Screenshot `/ip route print`
+<img width="1272" height="859" alt="image" src="https://github.com/user-attachments/assets/14adb831-0b50-4ffc-85fa-55c40dfd5af6" />
 
 
 #### Screenshot `/ip firewall nat print`
+<img width="1272" height="859" alt="image" src="https://github.com/user-attachments/assets/b61b22dd-6b51-4ad2-81a0-051858f705be" />
 
 
 #### Screenshot Ping dari ISP ke Internet (`8.8.8.8`)
+<img width="1272" height="859" alt="image" src="https://github.com/user-attachments/assets/50e8634f-23df-4fbc-b98d-fd8a3ce040ef" />
 
 
 #### Screenshot Ping Antar-WAN FortiGate (JKT $\leftrightarrow$ SBY) via ISP
