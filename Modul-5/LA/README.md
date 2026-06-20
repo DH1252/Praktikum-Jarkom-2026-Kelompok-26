@@ -212,10 +212,11 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 
 
 #### Screenshot Client VLAN 30 Mendapat IP DHCP (`show ip`)
+<img width="380" height="316" alt="show ip" src="https://github.com/user-attachments/assets/61fe62e0-ac3f-46bf-b43b-673140684944" />
 
 
 #### Screenshot Ping Client Surabaya ke Internet (`8.8.8.8`)
-
+<img width="567" height="157" alt="8888" src="https://github.com/user-attachments/assets/5507cd28-1fb5-41d5-9d96-e4e154b4ecf3" />
 
 ---
 
@@ -225,24 +226,31 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot `get system interface physical`
+<img width="612" height="635" alt="1" src="https://github.com/user-attachments/assets/3ab7016b-1abb-4a26-83e2-891eff00b6f6" />
 
 
 #### Screenshot `get router info routing-table all`
+<img width="780" height="391" alt="2" src="https://github.com/user-attachments/assets/56429bc3-e461-4234-aae2-06cab01c8b78" />
 
 
 #### Screenshot Firewall Policy Surabaya
+<img width="570" height="285" alt="3" src="https://github.com/user-attachments/assets/0c3642a2-1702-4cac-9d2b-3a4433e682d9" />
 
 
 #### Screenshot Ping dari FortiGate Surabaya ke Internet (`8.8.8.8`)
+<img width="553" height="222" alt="4" src="https://github.com/user-attachments/assets/0ade959b-7492-4a76-b2b4-7205c6bc5aed" />
 
 
 #### Screenshot Ping ke IP Tunnel Jakarta (`172.16.0.1`)
+<img width="641" height="221" alt="5" src="https://github.com/user-attachments/assets/26feb2c6-7989-4b1a-9132-8ef99f141c0c" />
 
 
 #### Screenshot `get router info ospf neighbor`
+<img width="750" height="137" alt="6" src="https://github.com/user-attachments/assets/c28701f0-8b81-4801-90b7-5b512bdcb94a" />
 
 
 #### Screenshot `get router info routing-table ospf`
+<img width="732" height="130" alt="7" src="https://github.com/user-attachments/assets/715f3447-cd7d-46cf-8d3b-42f82c317d53" />
 
 
 ---
@@ -253,15 +261,23 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot Ping WAN Antar-FortiGate
+<img width="551" height="215" alt="1" src="https://github.com/user-attachments/assets/47e3b5c4-030f-4db6-aa0d-23e9bf9d7cd4" />
+<img width="577" height="220" alt="2" src="https://github.com/user-attachments/assets/b92b8f75-4198-48c3-9733-1a99f5594a05" />
 
 
 #### Screenshot Ping Tunnel Antar-FortiGate
+<img width="576" height="222" alt="3" src="https://github.com/user-attachments/assets/238fdfc8-58ec-442d-b9e8-3ec5727cf374" />
+<img width="572" height="222" alt="4" src="https://github.com/user-attachments/assets/7504c493-1be5-4959-b703-c94166b839a5" />
 
 
 #### Screenshot `get router info ospf neighbor` & `routing-table ospf` (Kedua Sisi)
+<img width="753" height="222" alt="5" src="https://github.com/user-attachments/assets/2fbcfaad-e00a-479f-bb82-b4c423cde90f" />
+<img width="782" height="262" alt="6" src="https://github.com/user-attachments/assets/a4143a25-1e08-4b12-be8a-014fbaf24f81" />
 
 
 #### Screenshot Ping Silang Client Jakarta $\leftrightarrow$ Client Surabaya
+<img width="640" height="222" alt="8" src="https://github.com/user-attachments/assets/1fba31ab-154e-4f7f-b99c-85b37742cdc7" />
+<img width="556" height="217" alt="7" src="https://github.com/user-attachments/assets/75ceffb0-9f76-4542-a4df-9c2674ea404e" />
 
 
 ---
@@ -272,22 +288,23 @@ Praktikum ini membahas mengenai implementasi rancangan arsitektur jaringan skala
 * **Bukti yang Dikumpulkan:**
 
 #### Screenshot IP DHCP Client Jakarta (VLAN 10)
-
+<img width="671" height="447" alt="1" src="https://github.com/user-attachments/assets/41236eb5-c880-44cc-8381-4e473de0f81a" />
 
 #### Screenshot IP DHCP Client Surabaya (VLAN 30)
-
+<img width="681" height="573" alt="2" src="https://github.com/user-attachments/assets/cc000f58-60ec-4aa9-8c59-86d8813309eb" />
 
 #### Screenshot Ping Internet (`8.8.8.8`) dari Jakarta
-
+<img width="542" height="197" alt="3" src="https://github.com/user-attachments/assets/9b8cc671-6e77-4661-affc-1ce346d64e6e" />
 
 #### Screenshot Ping Internet (`8.8.8.8`) dari Surabaya
-
+<img width="518" height="150" alt="4" src="https://github.com/user-attachments/assets/add2adc0-97c2-46af-84a8-2c54a66ae058" />
 
 #### Screenshot Ping Antar-Site (Jakarta $\leftrightarrow$ Surabaya)
-
+<img width="591" height="148" alt="5" src="https://github.com/user-attachments/assets/f97fbe02-6d00-435e-be71-4a7e314cee51" />
+<img width="661" height="183" alt="6" src="https://github.com/user-attachments/assets/f5f7fe31-605a-414c-8a07-3f201e026439" />
 
 #### Screenshot Akses Halaman Web Server Jakarta (`192.168.60.10`) dari Surabaya
-
+<img width="527" height="62" alt="7" src="https://github.com/user-attachments/assets/1ed4cb9c-7ba5-420c-9ac3-fe467f964f2e" />
 
 ---
 
